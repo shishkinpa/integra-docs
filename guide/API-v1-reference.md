@@ -462,7 +462,7 @@ ids=<IDS_COMMA_SEPARATED>
     "success": <SUCCESS_COUNT>
   }
 }
-```
+``
 где
 > `SUCCESS_COUNT` — количество успешно обработанных сообщений
 
@@ -549,9 +549,11 @@ _Пример:_
 
 Для параметра `r` доступны следующие значения:
 ```
+/go/dashboard
 /go/payment
 /go/support
 /go/help
+
 
 ```
 
